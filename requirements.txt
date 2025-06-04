@@ -1,0 +1,12 @@
+marvin>=2.3.0
+pydantic>=2.0.0
+pydantic-ai>=0.0.1
+openai>=1.0.0
+aiofiles>=23.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+streamlit>=1.28.0
+plotly>=5.0.0
+pandas>=2.0.0
+schedule>=1.2.0
+# SQLite是Python内置模块，无需额外依赖
